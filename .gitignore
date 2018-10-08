@@ -1,2 +1,6 @@
 *.pyc
 .DS_Store
+node_modules/
+sample-webapp-nodejs/node_modules
+sample-webapp-nodejs/npm-debug.log
+
